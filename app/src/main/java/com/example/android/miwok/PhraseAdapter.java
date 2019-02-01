@@ -61,7 +61,9 @@ public class PhraseAdapter extends ArrayAdapter<Phrase> {
         // Return the whole list item layout (containing 2 TextViews and an ImageView)
         // so that it can be shown in the ListView
         return listItemView;
+
     }
 
 
 }
+
